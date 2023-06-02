@@ -2,7 +2,7 @@
 //  BinaryHeap.hpp
 //  Data Structure
 //
-//  Created by 汪文谦 on 2023/2/10.
+//  Created by w2qg0d on 2023/2/10.
 //
 
 #ifndef BinaryHeap_h

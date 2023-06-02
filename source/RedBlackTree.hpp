@@ -2,7 +2,7 @@
 //  RedBlackTree.hpp
 //  Data Structure
 //
-//  Created by 汪文谦 on 2023/2/3.
+//  Created by w2qg0d on 2023/2/3.
 //
 
 #ifndef RedBlackTree_h
